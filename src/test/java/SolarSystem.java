@@ -12,5 +12,10 @@ public class SolarSystem {
         pln2.size="6546464km";
         pln2.temp="-1654654c";
         pln2.color="red";
+        Planet1 frog=new Planet1();
+        frog.color="blue";
+        frog.temp="12165165k";
+        frog.size="2km";
+      
     }
 }
